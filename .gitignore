@@ -1,0 +1,33 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userprefs
+*.cache
+*.pdb
+*.orig
+*.log
+*.nupkg
+
+# IDE
+.idea/
+.vscode/
+
+# Database
+*.mdf
+*.ldf
+
+# User-specific
+*.swp
+*.swo
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
